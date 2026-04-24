@@ -1,2 +1,2 @@
 # BetterBoard
-NohBoard but more user friendly
+NohBoard but it's intuitive (did i spell that right)
