@@ -3,7 +3,6 @@ NohBoard but it reads from a config
 
 Oh and it's written in Rust like every single thing now
 
-Example config provided with release
+## Example config provided with release
 
-
-Planning to add fonts later
+Planning to add support for more uncommon keys and fonts later
