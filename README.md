@@ -1,2 +1,4 @@
-# BetterBoard
-NohBoard but it's intuitive (did i spell that right)
+# BluamekBoard
+NohBoard but it reads from a config
+
+Oh and it's written in Rust like every single thing now
